@@ -1,6 +1,6 @@
-﻿Console.WriteLine("Hello, World!");
-Console.WriteLine("I'm Gatonye");
-Console.WriteLine(3000);
-Console.WriteLine(5 + 5);
+﻿Console.WriteLine("GREETINGS:   Hello, World!");
+Console.WriteLine("NAME:        Gatonye");
+Console.WriteLine("NUMBER:      " +  (3000));
+Console.WriteLine("MATH:        " + (5 + 5));
 
 
